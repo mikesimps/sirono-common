@@ -1,0 +1,7 @@
+{
+    "orgName": "Sirono Common Inc",
+    "edition": "Enterprise",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
