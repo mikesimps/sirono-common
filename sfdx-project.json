@@ -2,10 +2,18 @@
     "packageDirectories": [
         {
             "path": "sirono-app",
+            "package": "sirono-common-atrx",
+            "versionName": "Version 1.0.1",
+            "versionNumber": "1.0.1.NEXT",
             "default": true
         }
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "43.0"
+    "sourceApiVersion": "43.0",
+    "packageAliases": {
+        "sirono-common-atrx": "0Ho1U000000blOsSAI",
+        "sirono-common-atrx@1.0.0-1": "04t1U0000063AfFQAU",
+        "sirono-common-atrx@1.0.1-1": "04t1U000006iaT7QAI"
+    }
 }
